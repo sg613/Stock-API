@@ -2,6 +2,11 @@
 
 ## Uses Requests to fetch live data about a Stocks current price, price change during the current day, and percent change during the current day
 
+**PLEASE INSTALL THE FOLLOWING PYTHON MODULES**
+- Flask
+- Requests
+- BeautifulSoup
+
 ### Guide:
     Download the Repository
     Run the app.py file
